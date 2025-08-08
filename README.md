@@ -1,5 +1,5 @@
 # JavaScript
-https://www.netacad.com/launch?id=81371ab5-46ea-4f93-b8f0-3f6cde004bed&tab=curriculum&view=63059830-d43e-5d81-bbb1-d0304aef5be3
+[https://www.netacad.com/launch?id=81371ab5-46ea-4f93-b8f0-3f6cde004bed&tab=curriculum&view=63059830-d43e-5d81-bbb1-d0304aef5be3](https://www.netacad.com/dashboard)
 
 Wisdom:
 So before you start explaining something to the computer, in other words, writing a program, you need to understand exactly what you want to achieve and how you want to achieve it. Secondly, the solution we propose and write in the form of a program must be 100% unambiguous – the computer cannot guess anything.
